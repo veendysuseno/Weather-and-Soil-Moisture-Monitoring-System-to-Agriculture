@@ -2,9 +2,13 @@
 
 ## Weather and Soil Moisture Monitoring System to Agriculture
 
+<hr>
+
 ### Overview
 
 - This project uses an ESP8266 Wemos D1 R1 microcontroller to monitor environmental conditions using a DHT11 sensor for temperature and humidity, and a soil moisture sensor. The data collected from these sensors is sent to ThingSpeak, an IoT platform that provides real-time data visualization.
+
+<hr>
 
 ### Components Required
 
@@ -16,6 +20,8 @@
 - Fan DC (5v or 3v) = 1 unit;
 - LCD Display with I2C = 1 unit;
 - ThingSpeak Account.
+
+<hr>
 
 ### Circuit Schematic
 
