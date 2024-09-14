@@ -69,6 +69,8 @@
 - DC Jack is not used.
 - COM1 and COM2 of the relay are directly connected to VIN on Arduino for power supply.
 
+<hr/>
+
 ### Important Notice
 
 Before starting, ensure you follow the steps below for proper installation.
@@ -101,6 +103,8 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
        - Arduino-LiquidCrystal-I2C-library-master
        - DHT-sensor-library-master
    - Download the libraries from: Library Download
+
+<hr/>
 
 ### Code Upload
 
@@ -173,6 +177,8 @@ int readSensor() {
 }
 ```
 
+<hr/>
+
 ### Additional Information for Library Installation
 
 If you have already followed the steps for installing the necessary libraries, the following information can be ignored.
@@ -181,11 +187,15 @@ If you have already followed the steps for installing the necessary libraries, t
 - Mac: Place libraries in (home directory)/Applications/Arduino (Show Package Content)/Contents/Java/Libraries.
 - Linux: Place libraries in (home directory)/sketchbook/libraries.
 
+<hr/>
+
 ### Helpful Links
 
 - ESP8266 Driver Link
 - Library Download
 - Arduino IDE
+
+<hr/>
 
 ### Support
 
