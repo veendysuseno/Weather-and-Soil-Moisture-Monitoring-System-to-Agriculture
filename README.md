@@ -17,6 +17,10 @@
 - LCD Display with I2C = 1 unit;
 - ThingSpeak Account.
 
+### Circuit Schematic
+
+![Schematic](img/skema.jpg)
+
 ### Pin Connections
 
 #### Relay
